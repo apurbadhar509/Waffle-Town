@@ -13,6 +13,8 @@ Contact Section: Provides multiple ways to connect with Waffle King, including s
 **Technologies Used**
 
 HTML: For the structure of the website.
+
 CSS: For creating a visually appealing, responsive design.
+
 JavaScript: For interactive elements like dark mode and animations. 
 
