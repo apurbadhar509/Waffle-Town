@@ -1,4 +1,4 @@
-Waffle King 🍽️
+**Waffle King 🍽️**
 
 Waffle King is a responsive landing page for a modern waffle shop that combines elegance, functionality, and a delicious menu! The website provides users with all the information they need about the shop, including the menu, services, and ways to connect.
 
